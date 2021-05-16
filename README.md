@@ -1,4 +1,4 @@
-The Repo is for the REST API example of speeach to write conversion of English.
+The Repo is for the REST API example of speach to write conversion of English.
 I implemented the REST API in form of discord bot (as Discord uses REST API).
 To check the code you should invite the bot to a server on discord, but I couldn't find a hosting service for the bot.
 You can use the code for your own bot as you can just replace the TOKEN.
